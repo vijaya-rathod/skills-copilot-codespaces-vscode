@@ -2,6 +2,6 @@ function skillsMemeber() {
   return {
     name: 'John Doe',
     age: 30,
-    skills: ['JavaScript', 'React', 'Node'],
+    skills: ['JavaScript', 'React', 'Node']
   };
 }
